@@ -13,7 +13,11 @@ We could like for initial project proposals to be submitted by 11:59pm on June 9
 
 * __Names and SuNET ID's__ of the students working on the project
 
-* __Summary:__ A brief 2-3 sentence summary of your project goals.  This statement should be output-driven in terms of a demo, chart/graph, or image that you hope to make when the project is complete.  For example, _"We are going extend the JITNet idea from the paper reading to explore the trade off between rapid learning and remembering knowledge from the past, in particular by training on a mini-batch containing new frames and randomly sampled old frames. We will demonstrate high accuracy and high efficiency on an example video stream where a camera holder repeatedly walks inside and back outside of my apartment."_  OR _"I am going to build a system for rapidly finding and labeling examples of objects of interest in a large video collection.  I am going to demonstrate success by creating datasets for three new object categories in the Waymo dataset."_
+* __Summary:__ A brief 2-3 sentence summary of your project goals.  This statement should be output-driven in terms of a demo, chart/graph, or image that you hope to make when the project is complete.  For example:
+
+> "We are going extend the JITNet idea from the paper reading to explore the trade off between rapid learning and remembering knowledge from the past, in particular by training on a mini-batch containing new frames and randomly sampled old frames. We will demonstrate high accuracy and high efficiency on an example video stream where a camera holder repeatedly walks inside and back outside of my apartment."
+
+> "I am going to build a system for rapidly finding and labeling examples of objects of interest in a large video collection.  I am going to demonstrate success by creating datasets for three new object categories in the Waymo dataset."
 
 * __Task list:__ No more than a few paragraphs of description of what you will do.  If your project is about algorithmic innovation, what is your basic approach?  If your project is about implementing an existing paper, list the parts of the paper you will need to implement.
   * Short list of things you will implement in order to "complete the project" (i.e., you expect to get a passing if you execute on all of these)
