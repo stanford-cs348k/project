@@ -8,7 +8,7 @@
 
 ## Proposal Document (May 12)
 
-We could like for initial project proposals to be submitted by 11:59pm on May 12th.  We expect a proposal to be submitted as a PDF document on Canvas, however it is fine if that PDF document is simply a list of student names and a link to a web site where all project work will be documented.  Here is a suggested template for a proposal.  __Note: This is a soft deadline.  It's more important to get the right project in place than to rush a proposal to meet the deadline.  However, those that do get proposals in on time will be the first to get staff feedback.__
+We could like for initial project proposals to be submitted by 11:59pm on May 12th.  We expect a proposal to be submitted on Canvas, however, we've configured canvas to allow you to submit a PDF document or simply submit a link to a web site where all project work will be documented.  Here is a suggested template for a proposal.  __Note: This is a soft deadline.  It's more important to get the right project in place than to rush a proposal to meet the deadline.  However, those that do get proposals in on time will be the first to get staff feedback.__
 
 * __Project Title:__  A great title is catchy, but also descriptive!
 
