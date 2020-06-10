@@ -5,7 +5,7 @@
   * May 12, Initial draft of project proposal
   * May 22, Project Checkpoint
   * June 9, Final project presentations (in class)
-  * June 10, Final project writeups due
+  * June 12, Final project writeups due
 
 ## Proposal Document (May 12)
 
@@ -40,9 +40,9 @@ I want you to write up a short one-page status report (potentially with initial 
 * You have a clear plan for your final demo or self-evaluation.  What are the baselines? How will you compare your work to these baselines?  On what datasets? Is there a specific image you hope to create? etc. 
 
 
-## Final Writeup Guidelines (June 10)
+## Final Writeup Guidelines (June 12)
  
-Your final project writeup is due at 11:59pm on June 10th.  You will submit on Canvas.
+Your final project writeup is due at 11:59pm on June 12th.  You will submit on Canvas.
 
 The writeup may be as short as a few pages, provided you hit the main points of defining the problem, defining your specific solution, and properly analyze the results.  I'm particularly focused on evaluation and results. Below is a sketch of some structure to help.
  
