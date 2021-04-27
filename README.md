@@ -6,9 +6,9 @@
   * Jun 3, Final project presentations (in class)
   * Jun 4, Final project writeups due
 
-## Proposal Document (May 4 -- soft deadline, feel free to submit earlier)
+## Proposal Document (due May 4 -- soft deadline, feel free to submit earlier)
 
-We could like for initial project proposals to be submitted by 11:59pm on May 4th.  We expect a proposal to be submitted on Gradescope, however, submitted a PDF that just links to a website where all project work will be documented.  Here is a suggested template for a proposal.  __Note: This is a soft deadline.  It's more important to get the right project in place than to rush a proposal to meet the deadline.  However, those that do get proposals in on time will be the first to get staff feedback.__
+We could like for initial project proposals to be submitted by May 4th.  We expect a proposal to be submitted on Gradescope, however, submitted a PDF that just links to a website where all project work will be documented.  Here is a suggested template for a proposal.  __Note: This is a soft deadline.  It's more important to get the right project in place than to rush a proposal to meet the deadline.  However, those that do get proposals in on time will be the first to get staff feedback.__
 
 * __Project Title:__  A great title is catchy, but also descriptive!
 
@@ -33,9 +33,9 @@ We could like for initial project proposals to be submitted by 11:59pm on May 4t
 
 * __Optional:__ a list of dependencies that your project requires.  This might mean starter code you've already found on the internet Or a technical paper/publication/blog post that you will use as a reference.  It might mean datasets or models that you've already found online.  We just want to clearly understand what you are starting with.  
 
-## Final Writeup Guidelines (June 12)
+## Final Writeup Guidelines (due June 4)
  
-Your final project writeup is due at 11:59pm on June 4th.  You will submit on Gradescope.
+Your final project writeup is due at 4pm PT on June 4th.  You will submit on Gradescope.
 
 The writeup may be as short as a few pages, provided you hit the main points of defining the problem, defining your specific solution, and properly analyze the results.  I'm particularly focused on evaluation and results. Below is a sketch of some structure to help.
  
