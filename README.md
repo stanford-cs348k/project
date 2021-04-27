@@ -24,11 +24,16 @@ _"We are going to implement the full HDR+ pipeline from the Google paper with a 
  
  _"We are going write schedules in TVM to optimize a DNN model architecture that we commonly use in our daily research.  Our goal is to run 10x faster, achieved through both better architecture design and also aggressive optimization, which will significantly change our research iteration times."_ 
 
+* __Inputs and outputs:__ List the inputs and outputs of the implementation, as well as the major constraints (is the constraint machine performance? human time?).  In this section I want you to take lessons from the papers we've read that did a good job of articulating this problem setup. 
 * __Task list:__ No more than a few paragraphs of description of what you will do.  If your project is about algorithmic innovation, what is your basic approach?  If your project is about implementing an existing paper, list the parts of the paper you will need to implement.  Specifically, please make sure this section has:
-  * A short list of things you will implement in order to "complete the project" (i.e., you expect to get a passing if you execute on all of these)  __A VERY, VERY STRONG SUGGESTION is to make your first couple of tasks whatever needs to be done to get a code base running end-to-end.  That is, download, compile, and run starter code on a simple dataset.  Implement the baseline algorithm that your more advanced algorithm will be compared against.  Get the application to generate correct results (even without any optimization), etc. In other words, I want your projects to always be in a state where you can stop and evaluate how well you are doing. Therefore, additional work simply improves on the current results.  Your goal for the May 22 checkpoint should be *AT LEAST* to the state where all baselines are in place, or your code is running end-to-end on a trivial example.___
+    * A short list of things you will implement in order to "complete the project" (i.e., you expect to get a passing if you execute on all of these)  __A VERY, VERY STRONG SUGGESTION is to make your first couple of tasks whatever needs to be done to get a code base running end-to-end.__  That is:
+        * Download, compile, and run starter code on a simple dataset
+        * Implement the baseline algorithm that your more advanced algorithm will be compared against.
+        * Get the application to generate correct results (even without any optimization), etc. 
+        * In other words, I want your projects to always be in a state where you can stop and evaluate how well you are doing. Therefore, additional work simply improves on the current results. __Your goal in the first ten days of the project should be *AT LEAST* to get to the state where all baselines are in place, or your code is running end-to-end on a trivial example.__
   * List of at most 1 or 2 "nice to haves" if you find yourself ahead of schedule at the end of the quarter.
 
-* __Expected deliverables.__ This is where I want you to focus on what demo you are going to show during your presentation, or what graphs you hope to make in your report.  This might be the place where I'd like to see the most detail in your proposal, since if you define a clear goal, your project activities will involve just working back from this goal to determine what needs to be done.  Are you trying to demonstrate an application, scheduled via Halide running at 30fps on your laptop?  Is there a particular image you want to create?  
+* __Expected deliverables.__ This is where I want you to focus on what demo you are going to show during your presentation, or what graphs you hope to make in your report.  This might be the place where I'd like to see the most detail in your proposal, since if you define a clear goal, your project activities will involve just working back from this goal to determine what needs to be done.  Are you trying to demonstrate an application, scheduled via Halide running at 30 fps on your laptop?  Are you going to demonstrate reasonable accuracy models that were trained in 30 minutes of work?  Is there a particular image you want to create?  
 
 * __Optional:__ a list of dependencies that your project requires.  This might mean starter code you've already found on the internet Or a technical paper/publication/blog post that you will use as a reference.  It might mean datasets or models that you've already found online.  We just want to clearly understand what you are starting with.  
 
@@ -42,8 +47,8 @@ The writeup may be as short as a few pages, provided you hit the main points of 
  
 Describe the problem being solved.  The purpose of the background is to give the reader the technical background to interpret whether your results suggest you solved the problem well.
  
-* What are the inputs/outputs
-* What are the goals/constraints on a solution
+* What are the inputs/outputs?
+* What are the goals/constraints on a solution?
 * What is the research question that you are asking? (what is a falsifiable hypothesis that your results will either falsify or support?)
 * What is the crux of the problem to solve? (what is the hard part of the project that forced you to learn something or figure something out.)
  
