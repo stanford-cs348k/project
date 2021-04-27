@@ -20,7 +20,7 @@ _"We are going extend the JITNet idea from the paper reading to explore the trad
 
  _"We are going to build a UI for rapidly finding and labeling examples of objects of interest in a large video collection.  We will demonstrate success by creating datasets for three new object categories in the Waymo dataset.  The system will contain components for visual similarity-based search and image clustering as key tools for finding data in the collection."_
 
-_"We are going to implement the full HDR+ pipeline from the Google paper with a focus on generating high image quality and much faster performance than assignment 1".
+_"We are going to implement the full HDR+ pipeline from the Google paper with a focus on generating high image quality and much faster performance than assignment 1"._
  
  _"We are going write schedules in TVM to optimize a DNN model architecture that we commonly use in our daily research.  Our goal is to run 10x faster, achieved through both better architecture design and also aggressive optimization, which will significantly change our research iteration times."_ 
 
