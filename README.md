@@ -39,7 +39,7 @@ _"We are going to implement the full HDR+ pipeline from the Google paper with a 
 
 ## Final Writeup Guidelines (due June 4)
  
-Your final project writeup is due at 4pm PT on June 4th.  You will submit on Gradescope.
+Your final project writeup is due at 5pm PT on June 4th.  You will submit on Gradescope.
 
 The writeup may be as short as a few pages, provided you hit the main points of defining the problem, defining your specific solution, and properly analyze the results.  I'm particularly focused on evaluation and results. Below is a sketch of some structure to help.
  
