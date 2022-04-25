@@ -2,13 +2,13 @@
 
 ## Deadlines
 
-  * May 4, Initial draft of project proposal
-  * Jun 3, Final project presentations (in class)
-  * Jun 4, Final project writeups due
+  * May 3, Initial draft of project proposal
+  * Jun 3, Final project writeups due (soft deadline)
+  * Jun 4, Final project presentations presentations
 
-## Proposal Document (due May 4 -- soft deadline, feel free to submit earlier)
+## Proposal Document (due May 3 -- soft deadline, feel free to submit earlier)
 
-We could like for initial project proposals to be submitted by May 4th.  We expect a proposal to be submitted on Gradescope, however, submitted a PDF that just links to a website where all project work will be documented.  Here is a suggested template for a proposal.  __Note: This is a soft deadline.  It's more important to get the right project in place than to rush a proposal to meet the deadline.  However, those that do get proposals in on time will be the first to get staff feedback.__
+We could like for initial project proposals to be submitted by May 3th.  We expect a proposal to be submitted on Gradescope, however, it's fine to submit a PDF that just links to a website where all project work will be documented.  Here is a suggested template for a proposal.  __Note: This is a soft deadline.  It's more important to get the right project in place than to rush a proposal to meet the deadline.  However, those that do get proposals in on time will be the first to get staff feedback.__
 
 * __Project Title:__  A great title is catchy, but also descriptive!
 
@@ -16,30 +16,28 @@ We could like for initial project proposals to be submitted by May 4th.  We expe
 
 * __Summary:__ A brief 2-3 sentence summary of your project goals.  This summary is best if it begins with an output-driven statement terms of a demo, chart/graph, or image that you hope to make when the project is complete, and then follows up with 1-2 sentences about the approach.  For example:
 
-_"We are going extend the JITNet idea from the paper reading to explore the trade off between rapid learning and remembering knowledge from the past, in particular, by training on a mini-batch containing new frames and randomly sampled old frames. We will demonstrate high accuracy and high efficiency on an example video stream where a camera holder repeatedly walks inside and back outside of my apartment."_
-
  _"We are going to build a UI for rapidly finding and labeling examples of objects of interest in a large video collection.  We will demonstrate success by creating datasets for three new object categories in the Waymo dataset.  The system will contain components for visual similarity-based search and image clustering as key tools for finding data in the collection."_
 
 _"We are going to implement the full HDR+ pipeline from the Google paper with a focus on generating high image quality and much faster performance than assignment 1"._
  
  _"We are going write schedules in TVM to optimize a DNN model architecture that we commonly use in our daily research.  Our goal is to run 10x faster, achieved through both better architecture design and also aggressive optimization, which will significantly change our research iteration times."_ 
 
-* __Inputs and outputs:__ List the inputs and outputs of the implementation, as well as the major constraints (is the constraint machine performance? human time?).  In this section I want you to take lessons from the papers we've read that did a good job of articulating this problem setup. 
+* __Inputs and outputs:__ List the inputs and outputs of the implementation, as well as the major constraints on your design (is the constraint machine performance? is it human time?).  In this section I want you to take lessons from the papers we've read that did a good job of articulating this problem setup. 
 * __Task list:__ No more than a few paragraphs of description of what you will do.  If your project is about algorithmic innovation, what is your basic approach?  If your project is about implementing an existing paper, list the parts of the paper you will need to implement.  Specifically, please make sure this section has:
-    * A short list of things you will implement in order to "complete the project" (i.e., you expect to get a passing if you execute on all of these)  __A VERY, VERY STRONG SUGGESTION is to make your first couple of tasks whatever needs to be done to get a code base running end-to-end.__  That is:
+    * A short list of things you will implement in order to "complete the project" (i.e., you expect to get a desirable grade if you execute on all of these)  __A VERY, VERY STRONG SUGGESTION is to make your first couple of tasks whatever needs to be done to get a code base running end-to-end.__  That is:
         * Download, compile, and run starter code on a simple dataset
         * Implement the baseline algorithm that your more advanced algorithm will be compared against.
         * Get the application to generate correct results (even without any optimization), etc. 
-        * In other words, I want your projects to always be in a state where you can stop and evaluate how well you are doing. Therefore, additional work simply improves on the current results. __Your goal in the first ten days of the project should be *AT LEAST* to get to the state where all baselines are in place, or your code is running end-to-end on a trivial example.__
+        * In other words, I want your projects to always be in a state where you can stop and evaluate how well you are doing. Therefore, additional work simply improves on the current results. __Your goal in the first week of the project should be *AT LEAST* to get to the state where all baselines are in place, or your code is running end-to-end on a trivial example__
   * List of at most 1 or 2 "nice to haves" if you find yourself ahead of schedule at the end of the quarter.
 
-* __Expected deliverables.__ This is where I want you to focus on what demo you are going to show during your presentation, or what graphs you hope to make in your report.  This might be the place where I'd like to see the most detail in your proposal, since if you define a clear goal, your project activities will involve just working back from this goal to determine what needs to be done.  Are you trying to demonstrate an application, scheduled via Halide running at 30 fps on your laptop?  Are you going to demonstrate reasonable accuracy models that were trained in 30 minutes of work?  Is there a particular image you want to create?  
+* __Expected deliverables.__ This is where I want you to focus on what demo you are going to show during your presentation, or what graphs you hope to make in your report.  This is the place where I'd like to see the most detail in your proposal, since if you define a clear goal, your project activities will involve just working back from this goal to determine what needs to be done.  Are you trying to demonstrate an application, scheduled via Halide running at 30 fps on your laptop?  Are you going to demonstrate reasonable accuracy models that were trained in 30 minutes of labeling work? Are you going to demonstrate a CUDA ray tracer that uses a BVH build using techniques from advanced graphics papers? Is there a particular image you want to create?  
 
 * __Optional:__ a list of dependencies that your project requires.  This might mean starter code you've already found on the internet Or a technical paper/publication/blog post that you will use as a reference.  It might mean datasets or models that you've already found online.  We just want to clearly understand what you are starting with.  
 
-## Final Writeup Guidelines (due June 4)
+## Final Writeup Guidelines (due June 3)
  
-Your final project writeup is due at 5pm PT on June 4th.  You will submit on Gradescope.
+Your final project writeup is "officially" due at 5pm PT on Friday June 3th. This is the last day of the quarter.  You will submit on Gradescope.  __Note that the course staff will not start grading writeups until Monday June 6th, so final write ups can be handed in without penalty as late as 9am on June 6th.__
 
 The writeup may be as short as a few pages, provided you hit the main points of defining the problem, defining your specific solution, and properly analyze the results.  I'm particularly focused on evaluation and results. Below is a sketch of some structure to help.
  
