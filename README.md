@@ -3,8 +3,8 @@
 ## Deadlines
 
   * May 3, Initial draft of project proposal
-  * Jun 6, final project writeups due (9am)
-  * Jun 4, Final project presentations
+  * June 4, Final project presentations
+  * June 6, final project writeups due (9am)
 
 ## Proposal Document (due May 3 -- soft deadline, feel free to submit earlier)
 
