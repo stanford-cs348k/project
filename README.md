@@ -3,8 +3,8 @@
 ## Deadlines
 
   * May 3, Initial draft of project proposal
-  * Jun 3, Final project writeups due (soft deadline)
-  * Jun 4, Final project presentations presentations
+  * Jun 6, final project writeups due (9am)
+  * Jun 4, Final project presentations
 
 ## Proposal Document (due May 3 -- soft deadline, feel free to submit earlier)
 
@@ -35,9 +35,9 @@ _"We are going to implement the full HDR+ pipeline from the Google paper with a 
 
 * __Optional:__ a list of dependencies that your project requires.  This might mean starter code you've already found on the internet Or a technical paper/publication/blog post that you will use as a reference.  It might mean datasets or models that you've already found online.  We just want to clearly understand what you are starting with.  
 
-## Final Writeup Guidelines (due June 3)
+## Final Writeup Guidelines (must be submitted by 9am Jun 6th)
  
-Your final project writeup is "officially" due at 5pm PT on Friday June 3th. This is the last day of the quarter.  You will submit on Gradescope.  __Note that the course staff will not start grading writeups until Monday June 6th, so final write ups can be handed in without penalty as late as 9am on June 6th.__
+__Note that the course staff will not start grading writeups until Monday June 6th, so final write ups can be handed in without penalty as late as 9am on June 6th.__ You will submit on Gradescope.
 
 The writeup may be as short as a few pages, provided you hit the main points of defining the problem, defining your specific solution, and properly analyze the results.  I'm particularly focused on evaluation and results. Below is a sketch of some structure to help.
  
