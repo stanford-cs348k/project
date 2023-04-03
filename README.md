@@ -1,12 +1,6 @@
 # CS348K Final Project Guidelines
 
-## Deadlines
-
-  * May 3, Initial draft of project proposal
-  * June 4, Final project presentations (3:30pm)
-  * June 6, final project writeups due (9am)
-
-## Proposal Document (due May 3 -- soft deadline, feel free to submit earlier)
+## Proposal Document 
 
 We could like for initial project proposals to be submitted by May 3th.  We expect a proposal to be submitted on Gradescope, however, it's fine to submit a PDF that just links to a website where all project work will be documented.  Here is a suggested template for a proposal.  __Note: This is a soft deadline.  It's more important to get the right project in place than to rush a proposal to meet the deadline.  However, those that do get proposals in on time will be the first to get staff feedback.__
 
@@ -35,10 +29,8 @@ _"We are going to implement the full HDR+ pipeline from the Google paper with a 
 
 * __Optional:__ a list of dependencies that your project requires.  This might mean starter code you've already found on the internet Or a technical paper/publication/blog post that you will use as a reference.  It might mean datasets or models that you've already found online.  We just want to clearly understand what you are starting with.  
 
-## Final Writeup Guidelines (must be submitted by 9am Jun 6th)
+## Final Writeup Guidelines
  
-__Note that the course staff will not start grading writeups until Monday June 6th, so final write ups can be handed in without penalty as late as 9am on June 6th.__ You will submit on Gradescope.
-
 The writeup may be as short as a few pages, provided you hit the main points of defining the problem, defining your specific solution, and properly analyze the results.  I'm particularly focused on evaluation and results. Below is a sketch of some structure to help.
  
 ### Background
