@@ -2,7 +2,7 @@
 
 ## Proposal Document 
 
-We could like for initial project proposals to be submitted by May 3th.  We expect a proposal to be submitted on Gradescope, however, it's fine to submit a PDF that just links to a website where all project work will be documented.  Here is a suggested template for a proposal.  __Note: This is a soft deadline.  It's more important to get the right project in place than to rush a proposal to meet the deadline.  However, those that do get proposals in on time will be the first to get staff feedback.__
+We expect a proposal to be submitted on Gradescope, however, it's fine to submit a PDF that just links to a website where all project work will be documented.  Here is a suggested template for a proposal. 
 
 * __Project Title:__  A great title is catchy, but also descriptive!
 
