@@ -19,7 +19,7 @@ We expect a proposal to be submitted on Gradescope, however, it's fine to submit
 
 * __Task list:__ No more than a few paragraphs of description of what you will do.  If your project is about algorithmic innovation, what is the basic proposed approach?  If your project is about implementing an existing paper, list the parts of the paper you will need to implement.  Specifically, please make sure this section has:
     * A short list of things you will implement in order to "complete the project" (i.e., you expect to get a desirable grade if you execute on all of these)  __A VERY, VERY STRONG SUGGESTION is to make your first couple of tasks whatever needs to be done to get a code base running end-to-end.__  That is:
-        * Download, compile, and run starter code on a simple "hello world" example or dataset
+        * Download, compile, and run starter code on a simple "hello world" example or dataset. Applicable, please describe where you are getting the started code, start datasets, etc. from.
         * Pick (or create) the dataset that you will use on a daily basis throughout the project timeline.
         * Implement the baseline algorithm that your more advanced algorithm will be compared against.
         * Get the application to generate correct results (even without any optimization), etc. 
@@ -27,14 +27,9 @@ We expect a proposal to be submitted on Gradescope, however, it's fine to submit
   * List of at most 1 or 2 "nice to haves" if you find yourself ahead of schedule at the end of the quarter.
   * For projects with multiple students on a team, please attempt to assign responsibilities for the various components of the project.
   
-* __What you need help with:__. What advise would like from Kayvon and Arden? Are there papers you need references to? Do you need a machine or computing resources to succeed?
+* __Expected deliverables and/or evaluation.__ This is where I want you to focus on what demo you are going to show during your presentation, or what [sequence of] graphs you hope to make in your report.  This is the place where I'd like to see the most detail in your proposal, since if you define a clear goal, your project activities will involve just working back from this goal to determine what needs to be done.  Are you trying to demonstrate an application, scheduled via Halide running at 30 fps on your laptop?  Are you going to demonstrate reasonable accuracy models that were trained in 30 minutes of labeling work? Are you going to demonstrate a CUDA ray tracer that uses a BVH build using techniques from advanced graphics papers? Is there a particular image you want to create? __Specifically, I want you to consider and write down how will you evaluate/determine the extent to which you were successful.__
 
 * __What are the biggest risks?__ Please document the biggest risks in the project.  Often there are points or blockers such as, if I can't get this code to compile/run, then I can't do the work.  Or, until I am successfully training this DNN and have reasonable trained model, I can't do aynthing else.  I want you to think through the risks on your project, and consider how to eliminate/derisk these aspects of the project with as little work as possible.
 
+* __What you need help with?__. What advice would like from Kayvon and Arden? Are there papers you need references to? Do you need a machine or computing resources to succeed?
 
-
-
-
-* __Expected deliverables and/or evaluation.__ This is where I want you to focus on what demo you are going to show during your presentation, or what [sequence of] graphs you hope to make in your report.  This is the place where I'd like to see the most detail in your proposal, since if you define a clear goal, your project activities will involve just working back from this goal to determine what needs to be done.  Are you trying to demonstrate an application, scheduled via Halide running at 30 fps on your laptop?  Are you going to demonstrate reasonable accuracy models that were trained in 30 minutes of labeling work? Are you going to demonstrate a CUDA ray tracer that uses a BVH build using techniques from advanced graphics papers? Is there a particular image you want to create? __Specifically, I want you to consider and write down how will you evaluate/determine the extent to which you were successful.__
-
-* __Optional:__ a list of dependencies that your project requires.  This might mean starter code you've already found on the internet Or a technical paper/publication/blog post that you will use as a reference.  It might mean datasets or models that you've already found online or computing resources you need. (e.g., access to GPUs)  We just want to clearly understand what you are starting with.  
