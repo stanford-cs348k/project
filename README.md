@@ -37,14 +37,14 @@ We expect a proposal to be submitted on Gradescope, however, it's fine to submit
 
 The writeup may be as short as a few pages, provided you hit the main points of defining the problem, defining your specific solution, and properly analyze the results. I'm particularly focused on evaluation and results. Following the structure below will help.
 
-* On June 13th, you will provide a in-class presentation that should fit in a 10 minutes slot.  All project team members should speak, and you should dim for a total presentation time of about seven minutes (to allow for slippage and also questions). 
-* Your final report should hand in prior to the beginning of the presentation sessions at 3:00pm on Tuesday June 13th.
+* On June 13th, from 3:30-6:30 we will meet as a group and you will provide a in-class presentation that should fit in a 10 minute slot.  __In this presentation, all project team members should speak, and you should dim for a total presentation time of about seven minutes (to allow for slippage and also questions).__ 
+* Your final report should hand in prior to the beginning of the presentation sessions at 3:30pm on Tuesday June 13th.
 
 ### Project Title
 
 Give your project a snazzy title. :-)  Please list the names and Stanford email addresses of all students on the team.
 
-### Background. (approx 1 page)
+### Background and Setup (approx 1 page)
 
 Provide a description of the problem being solved.  The description can be short (like the introduction section of a paper), but make sure you hit all the main problem definition points we talked about in class:
 
@@ -65,11 +65,11 @@ Please describe your approach.  Please be brief (about a page or so max), but yo
 
 * __If your project involved started with an existing piece of code or DNN model, please clearly describe what you started with here, so it's clear what work you actually did in your project. e.g., "We started with this codebase and made these changes..."__
 
-### Results (as many pages as needed to make the points you want to make)
+### Evaluation and Results (as many pages as needed to make the points you want to make)
 
 To the staff, this is the most important part of the writeup. Begin by providing your own definition of success (this should be in terms of your goals). In other words, re-iterate the question you were trying to answer, or the performance boost you were hoping to obtain. Then describe what data/experiment needs to be run to provide evidence that the goals were either met or not met.
 
-[If applicable] Now we want you to describe the relevant parts of your experimental setup. What were the baseline algorithms? What machine was a performance test run on? What did you measure? What was the dataset used?  If you have a programming abstraction project, the experimental setup might include a description of the programs you implemented expressed using the API.
+Now describe the relevant parts of your experimental setup. What were the baseline algorithms? What machine was a performance test run on? What did you measure? What was the dataset used?  If you have a programming abstraction project, the experimental setup might include a description of the programs you implemented expressed using the API.
 
 Finally, I want to see the results of an experiment that demonstrate success (or failure) to meet goals. Sometimes great projects fail to meet their goals, or falsify a hypothesis, but they still do a great job in the scientific process of verifying this.
 
