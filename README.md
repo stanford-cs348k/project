@@ -37,8 +37,8 @@ We expect a proposal to be submitted on Gradescope, however, it's fine to submit
 
 The writeup may be as short as a few pages, provided you hit the main points of defining the problem, defining your specific solution, and properly analyze the results. I'm particularly focused on evaluation and results. Following the structure below will help.
 
-* On June 13th, from 3:30-6:30 we will meet as a group and you will provide a in-class presentation that should fit in a 10 minute slot.  __In this presentation, all project team members should speak, and you should dim for a total presentation time of about seven minutes (to allow for slippage and also questions).__ 
-* Your final report should hand in prior to the beginning of the presentation sessions at 3:30pm on Tuesday June 13th.
+* You will make a presentation that should fit in a 10 minute slot.  __In this presentation, all project team members should speak, and you should aim for a total presentation time of about seven minutes (to allow for slippage and also questions).__ 
+* Your final report should be handed in by Wed June 5th.
 
 ### Project Title
 
