@@ -1,12 +1,16 @@
 # CS348K Final Project Guidelines
 
+## Deadlines
+
+Project proposal, checkpoint, and final report deadlines will be distributed via Ed.
+
 ## Proposal Document 
 
-We expect a proposal to be submitted on Gradescope, however, it's fine to submit a PDF that just links to a website where all project work will be documented.  Here is a suggested template for a proposal. 
+We expect a proposal to be submitted on Gradescope, however, it's fine to submit a PDF that just links to a website where all project work will be documented. This is particular helpful if you'd like to keep a running weekly log of progress.  Here is a suggested template for a proposal. 
 
 * __Project Title:__  A great title is catchy, but also descriptive!
 
-* __Names and SuNET ID's__ of the students working on the project. You are allowed to work alone, or in teams.  We'll set expectations for the level of difficulty of projects on a project-by-project basis based on team size.
+* __Names and SuNET ID's__ of the students working on the project. You are allowed to work alone, or in teams.  We'll set expectations for the level of difficulty of projects on a project-by-project basis based on team size.  The maximum team size is three students.
 
 * __Summary:__ A brief 2-3 sentence summary of your project goals.  This summary is best if it begins with an output-driven statement terms of a demo, chart/graph, or image that you hope to make when the project is complete, and then follows up with 1-2 sentences about the approach.  For example:
   - "We are going to build a UI for rapidly finding and labeling examples of objects of interest in a large video collection.  We will demonstrate success by creating datasets for three new object categories in the publicly available Waymo dataset.  The system will contain components for visual similarity-based search and image clustering as key tools for finding data in the collection. By the end of the project we are going to contribute new label-sets for the three new categories."_
@@ -42,7 +46,7 @@ The writeup may be as short as a few pages, provided you hit the main points of 
 
 ### Project Title
 
-Give your project a snazzy title. :-)  Please list the names and Stanford email addresses of all students on the team.
+Please list the names and Stanford email addresses of all students on the team underneath the title.
 
 ### Background and Setup (approx 1 page)
 
