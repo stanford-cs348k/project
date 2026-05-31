@@ -56,15 +56,19 @@ Provide a description of the problem being solved.  The description can be short
 * What is the question that you are asking and trying to answer? (Or equivalently: what is the falsifiable hypothesis that your results will either falsify or support?)
 
 And finally, given this setup of goals and constraints...
-* What is the crux of the problem to solve? (What is the hard part of the project that forced you to learn something or figure something out.)
+* What is the crux of the technical problem to solve? (What is the hard part of the project that forced you to learn something or figure something out.)
 
-### Approach (approx 1-2 pages max)
+### Approach
 
-Please describe your approach.  Please be brief (about a page or so max), but your description should be sufficiently detailed to provide the course staff a basic understanding of your approach. It might be very useful to include a figure here illustrating components of the system and/or their mapping to parallel hardware/or a DNN architecture.
+Please describe your approach. Please be brief (about a page or two is often sufficient to describe project methods), but your description should be sufficiently detailed to provide the course staff a basic understanding of your approach. It might be very useful to include a figure here illustrating components of the algorithm or system.
 
 * If your project involved optimizing code. Please describe the process of how you iterated toward a solution (what measurements did you make) What did you try that did not work? How to parts of the problem map to cores, threads, or vector lanes?
 
 * If your project involved optimizing a DNN architecture, you could describe the architecture here, and be sure to provide intuition about how your model architecture choices were motivated by your goals.
+
+* If your project involved creating a tool for humans to use (e.g., a designer), how did you approach understanding what the right workflow was to support, and describe how your tool directly supported this workflow.  What concepts does the desgin use to organize their design thinking? How does the system allow the designer to use the tool using these concepts?
+
+* If your project involved designing an agent -- what technologies did you choose to make the most capable agent? And why? (train a policy using RL? Rely on knowledge of an LLM? imitate human examples?)
 
 * __If your project involved started with an existing piece of code or DNN model, please clearly describe what you started with here, so it's clear what work you actually did in your project. e.g., "We started with this codebase and made these changes..."__
 
@@ -89,7 +93,7 @@ As you answer these questions, provide data and measurements to support your con
 
 ### Team Responsibilities
 
-Please provide a [very short] breakdown of which parts of the project were performed by each team member. In general we hope to (and intend to) give all team members the same grade, but we still want to know what everyone worked on and what their role was.   
+Please provide a [very short] breakdown of which parts of the project were performed by each team member. In general we intend to give all team members the same grade, but we still want to know what everyone worked on and what their role was.   
 
 ### References
 
